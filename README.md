@@ -1,0 +1,3 @@
+# MongoDB findOne Callback - Missing Document Handling
+
+This repository demonstrates an uncommon error related to MongoDB's `findOne` method and its callback function. The issue lies in how the code handles cases where no matching document is found. The provided solution aims to enhance clarity and avoid ambiguity by providing context to the 'Not found' message.  A detailed explanation and solution are provided in `bug.js` and `bugSolution.js` respectively.
